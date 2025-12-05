@@ -5,3 +5,4 @@ resource "oci_database_db_system" "test_db" {
   shape               = "VM.Standard2.4"
   database_edition    = "ENTERPRISE_EDITION"
 }
+#terraform 
