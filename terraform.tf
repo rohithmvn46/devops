@@ -6,3 +6,4 @@ resource "oci_database_db_system" "test_db" {
   database_edition    = "ENTERPRISE_EDITION"
 }
 #terraform 
+hiiiii kiddo 
